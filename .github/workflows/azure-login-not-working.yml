@@ -1,4 +1,4 @@
-name: Testing Azure Login Action
+name: Failing Azure Login Action
 
 on:
   workflow_dispatch:
